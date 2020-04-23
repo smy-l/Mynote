@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9b6ede9-7ebb-4ecd-a9c6-3fee011bc237" name="Default Changelist" comment="" />
+    <list default="true" id="a9b6ede9-7ebb-4ecd-a9c6-3fee011bc237" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectId" id="1anAQasCP0fAhmisg5ZFghMi7bV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -79,6 +81,10 @@
       <workItem from="1587363389154" duration="179000" />
       <workItem from="1587365960639" duration="58000" />
       <workItem from="1587382723823" duration="434000" />
+      <workItem from="1587623252093" duration="108000" />
+      <workItem from="1587623388531" duration="26000" />
+      <workItem from="1587623719960" duration="306000" />
+      <workItem from="1587624057321" duration="15000" />
     </task>
     <servers />
   </component>
@@ -90,10 +96,10 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.826@0.23.1440.826" timestamp="1587365983030" />
-    <state x="327" y="23" key="CommitChangelistDialog2" timestamp="1587361444778">
+    <state x="327" y="23" key="CommitChangelistDialog2" timestamp="1587623736239">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state x="327" y="23" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1587361444778" />
+    <state x="327" y="23" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1587623736239" />
     <state width="1358" height="201" key="GridCell.Tab.0.bottom" timestamp="1587383163935">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
@@ -130,5 +136,9 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="229" y="75" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1587382851461" />
+    <state x="143" y="58" key="new project wizard" timestamp="1587624005929">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="143" y="58" key="new project wizard/0.23.1440.826@0.23.1440.826" timestamp="1587624005929" />
   </component>
 </project>
